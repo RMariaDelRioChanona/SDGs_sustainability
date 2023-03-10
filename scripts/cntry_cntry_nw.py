@@ -13,7 +13,7 @@ org_geo = pd.read_csv('organization_geo_names.txt', sep='\t', header=None,
 def cntry_to_cntry_nw_creator(cntry_of_study, pub_author_org, org_geo):
 
     # Adjust and merge dataframes to end up with a network
-
+    pub_author_org = pub_author_org[pub_author_org['researcher_id'].notna() & pub_author_org['organization_id'].notna()] # exclude rows with missing author or org ID    
     pub_author_org = pub_author_org[pub_author_org["pub_id"].isin(cntry_of_study["abstract_id"])][["pub_id","organization_id"]]
     cntry_of_study = cntry_of_study.rename(columns={"abstract_id": "pub_id"})
     cntry_of_study = pd.merge(cntry_of_study, pub_author_org, on=["pub_id"])
