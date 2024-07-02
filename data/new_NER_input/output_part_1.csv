@@ -1,0 +1,1524 @@
+abstract_id,text,label
+pub.1000000010,norfloxacin,GPE
+pub.1000000040,Spain,GPE
+pub.1000000093,the Western Arctic,LOC
+pub.1000000093,the Western Arctic,LOC
+pub.1000000093,the Western Arctic,LOC
+pub.1000000093,Arctic,LOC
+pub.1000000131,Taiwan,GPE
+pub.1000000224,Schistosoma,GPE
+pub.1000000224,Brazil,GPE
+pub.1000000224,Biomphalaria,GPE
+pub.1000000224,Biomphalaria,GPE
+pub.1000000234,the United States,GPE
+pub.1000000244,Germany,GPE
+pub.1000000244,US,GPE
+pub.1000000244,Afghanistan,GPE
+pub.1000000244,Germany,GPE
+pub.1000000244,Germany,GPE
+pub.1000000244,Serbia,GPE
+pub.1000000281,Germany,GPE
+pub.1000000281,Denmark,GPE
+pub.1000000281,the North Sea,LOC
+pub.1000000370,Colorado River,LOC
+pub.1000000404,Gyeongnam,GPE
+pub.1000000433,US,GPE
+pub.1000000518,Northern Africa,LOC
+pub.1000000533,Warrenton,GPE
+pub.1000000533,Oregon,GPE
+pub.1000000533,Columbia River,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,the Astoria Canyon,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,Columbia River,LOC
+pub.1000000533,73km3,GPE
+pub.1000000533,Columbia River,LOC
+pub.1000000592,Caribbean,LOC
+pub.1000000592,Caribbean,LOC
+pub.1000000836,Northern Norway,LOC
+pub.1000000920,Greenland,GPE
+pub.1000000920,North Atlantic,LOC
+pub.1000000920,California,GPE
+pub.1000000920,North Pacific,LOC
+pub.1000000920,Pacific Ocean,LOC
+pub.1000000920,the GRIP Greenland,GPE
+pub.1000000920,Atlantic,LOC
+pub.1000000951,Ukraine,GPE
+pub.1000000951,Ukraine,GPE
+pub.1000001063,Mucorales,GPE
+pub.1000001079,Switzerland,GPE
+pub.1000001079,US,GPE
+pub.1000001079,US,GPE
+pub.1000001079,US,GPE
+pub.1000001079,Switzerland,GPE
+pub.1000001079,US,GPE
+pub.1000001079,US,GPE
+pub.1000001079,Switzerland,GPE
+pub.1000001079,US,GPE
+pub.1000001082,Auckland,GPE
+pub.1000001082,New Zealand,GPE
+pub.1000001115,Southeast Asia,LOC
+pub.1000001157,Asia,LOC
+pub.1000001157,Europe,LOC
+pub.1000001157,Europe,LOC
+pub.1000001157,Kazakhstan,GPE
+pub.1000001208,India,GPE
+pub.1000001252,Iran,GPE
+pub.1000001360,DC,GPE
+pub.1000001391,Japan,GPE
+pub.1000001409,UK,GPE
+pub.1000001894,Ireland,GPE
+pub.1000001894,Ghana,GPE
+pub.1000001894,Ghana,GPE
+pub.1000001908,Afghanistan,GPE
+pub.1000001908,Afghanistan,GPE
+pub.1000001919,Hong Kong,GPE
+pub.1000001939,wet microalgae,GPE
+pub.1000001939,wet microalgae,GPE
+pub.1000001958,the United States,GPE
+pub.1000001958,nonmelanoma,GPE
+pub.1000001958,US,GPE
+pub.1000002025,U.S.,GPE
+pub.1000002025,U.S.,GPE
+pub.1000002025,ammonia,GPE
+pub.1000002025,U.S.,GPE
+pub.1000002025,U.S.,GPE
+pub.1000002025,ammonia,GPE
+pub.1000002044,Pakistan,GPE
+pub.1000002044,Pakistan,GPE
+pub.1000002044,Pakistan,GPE
+pub.1000002044,Sindh,GPE
+pub.1000002044,Sindh,GPE
+pub.1000002044,Pakistan,GPE
+pub.1000002044,Pakistan,GPE
+pub.1000002071,Sri Lanka,GPE
+pub.1000002071,Sri Lankan,GPE
+pub.1000002071,Sri Lankan,GPE
+pub.1000002097,Kenya,GPE
+pub.1000002160,South Africa,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002225,DC,GPE
+pub.1000002259,Eastern Europe,LOC
+pub.1000002259,Central Europe,LOC
+pub.1000002259,Central and Eastern Europe,LOC
+pub.1000002259,Gentiles,GPE
+pub.1000002324,Ghana,GPE
+pub.1000002513,US,GPE
+pub.1000002513,US,GPE
+pub.1000002513,US,GPE
+pub.1000002556,Germany,GPE
+pub.1000002686,China,GPE
+pub.1000002686,China,GPE
+pub.1000002686,China,GPE
+pub.1000002686,China,GPE
+pub.1000002760,Nigeria,GPE
+pub.1000002771,Chagas,GPE
+pub.1000002907,the Southern Ocean,LOC
+pub.1000002907,Southern Ocean,LOC
+pub.1000002907,Antarctic,LOC
+pub.1000002936,Sierra Leone,GPE
+pub.1000002947,Vietnam,GPE
+pub.1000002976,Indonesia,GPE
+pub.1000002976,US,GPE
+pub.1000002987,France,GPE
+pub.1000003018,OA,GPE
+pub.1000003018,pH,GPE
+pub.1000003018,OA,GPE
+pub.1000003088,Subvolume,GPE
+pub.1000003090,China,GPE
+pub.1000003099,Southeast Brazil,GPE
+pub.1000003118,Nigeria,GPE
+pub.1000003118,Northern,LOC
+pub.1000003118,Nigeria,GPE
+pub.1000003118,Northern,LOC
+pub.1000003134,MS,GPE
+pub.1000003162,Germany,GPE
+pub.1000003193,non-Caucasian,GPE
+pub.1000003193,non-Indigenous,GPE
+pub.1000003193,Australia,GPE
+pub.1000003193,non-Indigenous,GPE
+pub.1000003349,England,GPE
+pub.1000003349,Wales,GPE
+pub.1000003349,England,GPE
+pub.1000003349,Wales,GPE
+pub.1000003349,England,GPE
+pub.1000003349,Wales,GPE
+pub.1000003382,Netherlands,GPE
+pub.1000003603,Asia,LOC
+pub.1000003603,Asia,LOC
+pub.1000003603,Asia,LOC
+pub.1000003603,Asia,LOC
+pub.1000003698,India,GPE
+pub.1000003698,Banni,GPE
+pub.1000003698,Banni,GPE
+pub.1000003698,Bhunga,GPE
+pub.1000003698,Salvadora persica,GPE
+pub.1000003815,Preeclampsia,GPE
+pub.1000003815,Bangladesh,GPE
+pub.1000003815,Dhaka,GPE
+pub.1000003844,Israel,GPE
+pub.1000003844,Liberia,GPE
+pub.1000003844,Iraq,GPE
+pub.1000003844,Theatre,GPE
+pub.1000003892,New South Wales,GPE
+pub.1000003892,Australia,GPE
+pub.1000003954,Brazil,GPE
+pub.1000003954,Brazil,GPE
+pub.1000003988,Gemini,GPE
+pub.1000003990,Mumford,GPE
+pub.1000003990,P.,GPE
+pub.1000003990,Mumford,GPE
+pub.1000003990,A.,GPE
+pub.1000004016,Northern China,LOC
+pub.1000004040,Europe,LOC
+pub.1000004106,study-63,LOC
+pub.1000004126,Serbia,GPE
+pub.1000004126,Yugoslavia,GPE
+pub.1000004126,integraciju,GPE
+pub.1000004126,takodje,GPE
+pub.1000004251,Fermi,GPE
+pub.1000004251,Pauli,GPE
+pub.1000004540,U.S.,GPE
+pub.1000004615,U.S.,GPE
+pub.1000004615,U.S.,GPE
+pub.1000004615,U.S.,GPE
+pub.1000004615,India,GPE
+pub.1000004615,U.S.,GPE
+pub.1000004615,U.S.,GPE
+pub.1000004657,East Riding,GPE
+pub.1000004657,Ireland,GPE
+pub.1000004657,Scotland,GPE
+pub.1000004657,North-East England,LOC
+pub.1000004657,Early Industrial Britain,GPE
+pub.1000004657,Britain,GPE
+pub.1000004657,Theory,GPE
+pub.1000004657,Britain,GPE
+pub.1000004657,1860–1914.Pamela Horn,GPE
+pub.1000004657,Wales,GPE
+pub.1000004657,Treue,GPE
+pub.1000004657,Italy,GPE
+pub.1000004657,Italy,GPE
+pub.1000004657,Cimarosa,GPE
+pub.1000004657,Impresario,GPE
+pub.1000004657,Mass Production,GPE
+pub.1000004657,the United States,GPE
+pub.1000004657,Mexico,GPE
+pub.1000004657,Bengal,GPE
+pub.1000004673,China,GPE
+pub.1000004673,the Republic of China,GPE
+pub.1000004673,ROC,GPE
+pub.1000004673,PRC,GPE
+pub.1000004673,Taiwan,GPE
+pub.1000004673,Taiwan,GPE
+pub.1000004673,PRC,GPE
+pub.1000004673,China,GPE
+pub.1000004748,wt.%,GPE
+pub.1000004823,Honduras,GPE
+pub.1000004823,America,GPE
+pub.1000004823,America,GPE
+pub.1000004823,Colombia,GPE
+pub.1000004823,Peru,GPE
+pub.1000004823,Honduras,GPE
+pub.1000004859,North and South America's,GPE
+pub.1000004859,Americas,LOC
+pub.1000004859,North America,LOC
+pub.1000004859,South America,LOC
+pub.1000004859,T850 ≥,GPE
+pub.1000004859,Americas,LOC
+pub.1000004943,hepatomegaly,GPE
+pub.1000004954,Japan,GPE
+pub.1000005007,China,GPE
+pub.1000005007,the Loess Plateau,LOC
+pub.1000005013,Jupiter,LOC
+pub.1000005013,Jupiter,LOC
+pub.1000005013,Jupiter,LOC
+pub.1000005013,Jupiter,LOC
+pub.1000005082,the Bay of Fundy,LOC
+pub.1000005082,colonies,GPE
+pub.1000005082,Great Lakes,GPE
+pub.1000005119,California,GPE
+pub.1000005244,Shandong,GPE
+pub.1000005244,China,GPE
+pub.1000005244,Shandong,GPE
+pub.1000005244,China,GPE
+pub.1000005288,Schistosoma,GPE
+pub.1000005288,Biomphalaria,GPE
+pub.1000005288,Illumina,GPE
+pub.1000005324,CP,GPE
+pub.1000005324,CP,GPE
+pub.1000005359,Australia,GPE
+pub.1000005359,Australian Rainfall,GPE
+pub.1000005447,Netherlands,GPE
+pub.1000005447,Netherlands,GPE
+pub.1000005541,Africa,LOC
+pub.1000005541,Nile,LOC
+pub.1000005558,Germany,GPE
+pub.1000005608,H2O,GPE
+pub.1000005608,H2O,GPE
+pub.1000005608,H2O,GPE
+pub.1000005608,H2O,GPE
+pub.1000005676,India,GPE
+pub.1000005676,India,GPE
+pub.1000005676,Gandhinagar,GPE
+pub.1000005758,New York,GPE
+pub.1000005758,Continuum,GPE
+pub.1000005758,Singapore,GPE
+pub.1000005765,Cape Town,GPE
+pub.1000005765,Cape Town,GPE
+pub.1000005862,anesthesia,GPE
+pub.1000005978,Cinna,GPE
+pub.1000006014,NEC.METHODS,GPE
+pub.1000006014,Intestine,GPE
+pub.1000006034,Romania,GPE
+pub.1000006034,Greece,GPE
+pub.1000006034,Germany,GPE
+pub.1000006034,Greece,GPE
+pub.1000006034,Romania,GPE
+pub.1000006034,Romania,GPE
+pub.1000006034,Greece,GPE
+pub.1000006034,Germany,GPE
+pub.1000006034,Greece,GPE
+pub.1000006034,Romania,GPE
+pub.1000006098,Europe,LOC
+pub.1000006098,Russia,GPE
+pub.1000006197,U.S.,GPE
+pub.1000006256,S. Mean,GPE
+pub.1000006311,Modelica,GPE
+pub.1000006325,Brazil,GPE
+pub.1000006424,Iraq,GPE
+pub.1000006424,Afghanistan,GPE
+pub.1000006467,Tanzania,GPE
+pub.1000006499,U.S,GPE
+pub.1000006499,Tokyo Area,GPE
+pub.1000006499,Tokyo Bay,LOC
+pub.1000006499,Tokyo Bay,LOC
+pub.1000006515,Korea,GPE
+pub.1000006635,Obama,GPE
+pub.1000006635,Henry Louis Gates,LOC
+pub.1000006635,the Shirley Sherrod,LOC
+pub.1000006735,the United States,GPE
+pub.1000006735,Canada,GPE
+pub.1000006735,the United Kingdom,GPE
+pub.1000006735,France,GPE
+pub.1000006735,the United States,GPE
+pub.1000006735,the United States,GPE
+pub.1000006832,Rossi,GPE
+pub.1000006861,Thabo Mbeki,GPE
+pub.1000006894,Thailand,GPE
+pub.1000006894,Vietnam,GPE
+pub.1000006894,Laos,GPE
+pub.1000006894,Cambodia,GPE
+pub.1000006899,Xinjiang,GPE
+pub.1000007073,Philippines,GPE
+pub.1000007073,Philippine Sea,LOC
+pub.1000007073,the Indian Ocean,LOC
+pub.1000007073,Pacific,LOC
+pub.1000007073,Indian Ocean,LOC
+pub.1000007073,El Niño,GPE
+pub.1000007073,Pacific,LOC
+pub.1000007074,Subvolume,GPE
+pub.1000007184,China,GPE
+pub.1000007184,China,GPE
+pub.1000007184,China,GPE
+pub.1000007184,China,GPE
+pub.1000007191,Subvolume,GPE
+pub.1000007224,Malaysia,GPE
+pub.1000007224,Selangor,GPE
+pub.1000007372,Rio de Janeiro,GPE
+pub.1000007372,Brazil,GPE
+pub.1000007423,New Brunswick,GPE
+pub.1000007423,Canada,GPE
+pub.1000007558,the North Atlantic basin,LOC
+pub.1000007558,Northeast Atlantic,LOC
+pub.1000007558,the North Atlantic,LOC
+pub.1000007617,Arctic,LOC
+pub.1000007617,the Northern Hemisphere,LOC
+pub.1000007617,Arctic,LOC
+pub.1000007617,Arctic,LOC
+pub.1000007637,Obama,GPE
+pub.1000007637,Obama,GPE
+pub.1000007637,2nd ed.,GPE
+pub.1000007637,New York,GPE
+pub.1000007637,Obama,GPE
+pub.1000007658,Central Asia,LOC
+pub.1000007674,the Canadian Arctic,LOC
+pub.1000007674,East-West,LOC
+pub.1000007674,the Canadian Arctic,LOC
+pub.1000007674,Antarctic,LOC
+pub.1000007975,Fermi,GPE
+pub.1000007992,the United States',GPE
+pub.1000007992,the United States,GPE
+pub.1000008049,Infliximab,GPE
+pub.1000008049,Infliximab,GPE
+pub.1000008049,TB,GPE
+pub.1000008049,infliximab,GPE
+pub.1000008049,infliximab,GPE
+pub.1000008119,Minneapolis,GPE
+pub.1000008191,the Southern Hemisphere,LOC
+pub.1000008191,Antarctica,LOC
+pub.1000008208,United States,GPE
+pub.1000008208,Canada,GPE
+pub.1000008208,Argentina,GPE
+pub.1000008208,Chile,GPE
+pub.1000008208,Uruguay,GPE
+pub.1000008208,US,GPE
+pub.1000008208,Uruguay,GPE
+pub.1000008208,Canada,GPE
+pub.1000008208,Argentina,GPE
+pub.1000008208,Chile,GPE
+pub.1000008208,Americas,LOC
+pub.1000008208,South Asia,LOC
+pub.1000008306,Pacific,LOC
+pub.1000008323,Brugia,GPE
+pub.1000008323,Wolbachia,GPE
+pub.1000008323,Brugia,GPE
+pub.1000008341,USSR,GPE
+pub.1000008353,East Africa,GPE
+pub.1000008353,Kenya,GPE
+pub.1000008353,Uganda,GPE
+pub.1000008470,England,GPE
+pub.1000008518,China,GPE
+pub.1000008518,China,GPE
+pub.1000008614,People's Republic of China,GPE
+pub.1000008614,China,GPE
+pub.1000008614,China,GPE
+pub.1000008614,China,GPE
+pub.1000008614,China,GPE
+pub.1000008802,Brazil,GPE
+pub.1000008804,PV,GPE
+pub.1000008804,PV,GPE
+pub.1000009062,neoplasia,GPE
+pub.1000009065,Europe,LOC
+pub.1000009127,Africa,LOC
+pub.1000009127,Indian Ocean,LOC
+pub.1000009229,South Korea,GPE
+pub.1000009229,South Korea,GPE
+pub.1000009229,South Korea,GPE
+pub.1000009357,Mediterranean,LOC
+pub.1000009593,the Middle Paraná River,LOC
+pub.1000009593,Eichhornia,GPE
+pub.1000009593,Pontederia,GPE
+pub.1000009601,Hafnia,GPE
+pub.1000009660,Washington Heights,GPE
+pub.1000009660,New York,GPE
+pub.1000009660,Washington Heights,GPE
+pub.1000009660,New York,GPE
+pub.1000009739,Porter,GPE
+pub.1000009767,the Empire of Japan,GPE
+pub.1000009767,Kobe,GPE
+pub.1000009767,Japan,GPE
+pub.1000009767,Japan,GPE
+pub.1000009826,Canada,GPE
+pub.1000009919,Zimbabwe,GPE
+pub.1000009919,Zimbabwe,GPE
+pub.1000009919,Zimbabwe,GPE
+pub.1000009953,Subvolume,GPE
+pub.1000010041,Turkey,GPE
+pub.1000010041,Mediterranean,LOC
+pub.1000010041,Anamur Canyon,LOC
+pub.1000010062,South,LOC
+pub.1000010104,Denmark,GPE
+pub.1000010104,Vietnam,GPE
+pub.1000010179,Streptococcus,GPE
+pub.1000010218,Sri Lanka,GPE
+pub.1000010218,Sri Lanka,GPE
+pub.1000010218,Sri Lanka,GPE
+pub.1000010233,the Global South,LOC
+pub.1000010284,CoNS,GPE
+pub.1000010289,Hungary,GPE
+pub.1000010344,the United States,GPE
+pub.1000010344,Mexico,GPE
+pub.1000010344,United States,GPE
+pub.1000010612,Italy,GPE
+pub.1000010612,Italy,GPE
+pub.1000010612,Italy,GPE
+pub.1000010773,Rwanda,GPE
+pub.1000010773,the Democratic Republic of Congo,GPE
+pub.1000010773,Africa,LOC
+pub.1000010840,Hong Kong,GPE
+pub.1000010840,Mainland China,LOC
+pub.1000010862,Trachoma,GPE
+pub.1000010872,Deleuze,GPE
+pub.1000010872,Heidegger,GPE
+pub.1000010872,Watsuji,GPE
+pub.1000010872,Rinrigaku,GPE
+pub.1000010950,Utrecht,GPE
+pub.1000010950,Netherlands,GPE
+pub.1000010986,TiO2,GPE
+pub.1000010986,TiO2,GPE
+pub.1000011140,Balikesir,GPE
+pub.1000011140,Turkey,GPE
+pub.1000011140,PV,GPE
+pub.1000011140,Balikesir,GPE
+pub.1000011140,Turkey,GPE
+pub.1000011140,PV,GPE
+pub.1000011143,EV,GPE
+pub.1000011143,EV,GPE
+pub.1000011209,MD,GPE
+pub.1000011209,Buckingham,GPE
+pub.1000011209,MD,GPE
+pub.1000011248,Tessaratoma,GPE
+pub.1000011248,Asia,LOC
+pub.1000011248,NeemAzal U,GPE
+pub.1000011248,Thailand,GPE
+pub.1000011374,U.S.,GPE
+pub.1000011389,South Africa,GPE
+pub.1000011389,Mgeni River,LOC
+pub.1000011491,Israel,GPE
+pub.1000011491,Canada,GPE
+pub.1000011491,Israel,GPE
+pub.1000011588,Frascati,GPE
+pub.1000011684,Ga2(As0.4Se0.6)98−yTey,GPE
+pub.1000011733,Earth,LOC
+pub.1000011733,Albedo,GPE
+pub.1000011820,China,GPE
+pub.1000011820,USA,GPE
+pub.1000011841,Indigenous,GPE
+pub.1000011875,Massachusetts,GPE
+pub.1000011984,Earth,LOC
+pub.1000012094,the United States,GPE
+pub.1000012177,the Republic of Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,the Republic of Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Russia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012177,Serbia,GPE
+pub.1000012214,FulBe,GPE
+pub.1000012214,West Africa,GPE
+pub.1000012214,FulBe,GPE
+pub.1000012214,FulBe,GPE
+pub.1000012214,West Africa,GPE
+pub.1000012273,Bolivia,GPE
+pub.1000012273,Brazil,GPE
+pub.1000012273,Peru,GPE
+pub.1000012273,Bolivia,GPE
+pub.1000012273,Neacomys,GPE
+pub.1000012335,C.I.,GPE
+pub.1000012401,Belgium,GPE
+pub.1000012401,eclampsia,GPE
+pub.1000012405,China,GPE
+pub.1000012432,Brazil,GPE
+pub.1000012432,Cascavel,LOC
+pub.1000012495,J.E.,GPE
+pub.1000012495,Warren,GPE
+pub.1000012524,hematuria,GPE
+pub.1000012524,the United States,GPE
+pub.1000012578,Europe,LOC
+pub.1000012623,Keynesian,GPE
+pub.1000012623,Brazil,GPE
+pub.1000012858,Shanghai,GPE
+pub.1000012858,Jiangsu,GPE
+pub.1000012863,China,GPE
+pub.1000012863,China,GPE
+pub.1000012936,Leishmania,GPE
+pub.1000013002,Germany,GPE
+pub.1000013002,Europe,LOC
+pub.1000013002,Germany,GPE
+pub.1000013002,Germany,GPE
+pub.1000013002,Europe,LOC
+pub.1000013002,Germany,GPE
+pub.1000013002,Germany,GPE
+pub.1000013002,Europe,LOC
+pub.1000013002,Germany,GPE
+pub.1000013070,Vietnam,GPE
+pub.1000013070,US,GPE
+pub.1000013070,Vietnam,GPE
+pub.1000013070,Vietnam,GPE
+pub.1000013070,US,GPE
+pub.1000013070,Vietnam,GPE
+pub.1000013123,the United States,GPE
+pub.1000013151,Salmonella,GPE
+pub.1000013151,Kyushu,GPE
+pub.1000013177,New York,GPE
+pub.1000013634,Texas,GPE
+pub.1000013761,U.S.,GPE
+pub.1000013761,Coastal Plain,LOC
+pub.1000013761,Georgia,GPE
+pub.1000013761,Georgia,GPE
+pub.1000013761,USA,GPE
+pub.1000013767,Aristotele,GPE
+pub.1000013808,Abstract Sea,LOC
+pub.1000013808,Indian Ocean,LOC
+pub.1000013808,Indian Ocean,LOC
+pub.1000013808,Pacific,LOC
+pub.1000013921,Natal,GPE
+pub.1000013921,Brazil,GPE
+pub.1000013968,Nigeria,GPE
+pub.1000014149,Une,GPE
+pub.1000014270,Atlanta,GPE
+pub.1000014270,Atlanta,GPE
+pub.1000014272,DM,GPE
+pub.1000014428,FeOOH)-Au,GPE
+pub.1000014428,FeOOH)-Au,GPE
+pub.1000014433,Korea,GPE
+pub.1000014433,China,GPE
+pub.1000014433,Japan,GPE
+pub.1000014433,Taiwan,GPE
+pub.1000014611,Mexico,GPE
+pub.1000014646,Gangwon,GPE
+pub.1000014646,Gangwon,GPE
+pub.1000014646,Yangyang,GPE
+pub.1000014646,Pyeongchang,GPE
+pub.1000014646,Taebaek city,GPE
+pub.1000014669,Aloha,GPE
+pub.1000014669,Aloha,GPE
+pub.1000014690,Tokyo,GPE
+pub.1000014718,Xinlicheng,GPE
+pub.1000014718,pH,GPE
+pub.1000014718,Xinlicheng,GPE
+pub.1000014750,Saskatchewan,GPE
+pub.1000014965,Schwann,GPE
+pub.1000014965,Japan,GPE
+pub.1000014978,Europe,LOC
+pub.1000014978,Europe,LOC
+pub.1000014978,England,GPE
+pub.1000014978,England,GPE
+pub.1000014978,Europe,LOC
+pub.1000015025,U.S.,GPE
+pub.1000015079,microalgae,GPE
+pub.1000015079,microalgae,GPE
+pub.1000015119,Europe,LOC
+pub.1000015119,the United Kingdom,GPE
+pub.1000015222,USA,GPE
+pub.1000015436,Appalachian,GPE
+pub.1000015436,New York,GPE
+pub.1000015455,viz.,GPE
+pub.1000015653,North Ethiopia,LOC
+pub.1000015654,Africa,LOC
+pub.1000015733,neoplasia,GPE
+pub.1000015733,neoplasia,GPE
+pub.1000015733,neoplasia,GPE
+pub.1000015736,US,GPE
+pub.1000015737,Medline,GPE
+pub.1000015776,US,GPE
+pub.1000015776,US,GPE
+pub.1000015776,US,GPE
+pub.1000015776,US,GPE
+pub.1000015831,N.A.S.A.,GPE
+pub.1000015908,DC,GPE
+pub.1000015908,DC,GPE
+pub.1000015908,DC,GPE
+pub.1000016151,the Southern Hemisphere,LOC
+pub.1000016171,the Eastern Indian Ocean,LOC
+pub.1000016171,the Western Indian Ocean,LOC
+pub.1000016171,the Indian Ocean,LOC
+pub.1000016449,Jordan,GPE
+pub.1000016449,Jordan,GPE
+pub.1000016449,Jordan,GPE
+pub.1000016606,loads,GPE
+pub.1000016606,loads,GPE
+pub.1000016635,Subvolume,GPE
+pub.1000016690,Arctic,LOC
+pub.1000016690,Arctic,LOC
+pub.1000016690,Arctic,LOC
+pub.1000016690,France,GPE
+pub.1000016690,Arctic,LOC
+pub.1000016690,Arctic Ocean's,LOC
+pub.1000016690,Arctic,LOC
+pub.1000016690,Japan,GPE
+pub.1000016706,CD8,GPE
+pub.1000016706,CD28,GPE
+pub.1000016795,Cairo,GPE
+pub.1000016893,Portugal,GPE
+pub.1000017064,Yopal,GPE
+pub.1000017102,H2O,GPE
+pub.1000017160,America,GPE
+pub.1000017160,Algeria,GPE
+pub.1000017160,the United States,GPE
+pub.1000017160,colonies,GPE
+pub.1000017225,Denmark,GPE
+pub.1000017225,Finland,GPE
+pub.1000017225,Norway,GPE
+pub.1000017225,Denmark,GPE
+pub.1000017225,Norway,GPE
+pub.1000017344,microcephaly,GPE
+pub.1000017344,microcephaly,GPE
+pub.1000017344,microcephaly,GPE
+pub.1000017638,Brazil,GPE
+pub.1000017699,TP,GPE
+pub.1000017699,TP,GPE
+pub.1000017810,Vietnam,GPE
+pub.1000017821,South Africa,GPE
+pub.1000017826,the United States,GPE
+pub.1000017826,the United States,GPE
+pub.1000018026,DC,GPE
+pub.1000018026,DC,GPE
+pub.1000018055,Subvolume,GPE
+pub.1000018216,India,GPE
+pub.1000018216,India,GPE
+pub.1000018225,Preeclampsia,GPE
+pub.1000018225,PE,GPE
+pub.1000018225,PE,GPE
+pub.1000018225,PE,GPE
+pub.1000018452,China,GPE
+pub.1000018452,China,GPE
+pub.1000018469,Europe,LOC
+pub.1000018469,Switzerland,GPE
+pub.1000018469,Germany,GPE
+pub.1000018476,Hong Kong,GPE
+pub.1000018476,China,GPE
+pub.1000018493,the Island of Montreal,GPE
+pub.1000018493,the Island of Montreal,GPE
+pub.1000018560,South Carolina’s,GPE
+pub.1000018567,Pept1(-/-,GPE
+pub.1000018598,anaesthesia,GPE
+pub.1000018598,anaesthesia,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018643,Mexico,GPE
+pub.1000018677,Great Britain,GPE
+pub.1000018714,the United States,GPE
+pub.1000018790,Canada,GPE
+pub.1000018790,Canada,GPE
+pub.1000019028,Oklahoma,GPE
+pub.1000019028,Oklahoma,GPE
+pub.1000019138,Africa,LOC
+pub.1000019201,Chagas,GPE
+pub.1000019201,Chagas,GPE
+pub.1000019247,South Africa,GPE
+pub.1000019510,Chile,GPE
+pub.1000019510,Chile,GPE
+pub.1000019510,Chile,GPE
+pub.1000019510,Chile,GPE
+pub.1000019510,Chile,GPE
+pub.1000019510,Chile,GPE
+pub.1000019528,Visual Analog,GPE
+pub.1000019528,PTSD,GPE
+pub.1000019621,Tanzania,GPE
+pub.1000019621,Uganda,GPE
+pub.1000019621,Zaire,GPE
+pub.1000019631,Japan,GPE
+pub.1000019631,Korea,GPE
+pub.1000019631,the Northeastern Thailand,LOC
+pub.1000019678,Hubei,GPE
+pub.1000019712,GD14,GPE
+pub.1000019750,Kenya,GPE
+pub.1000019750,Kenya,GPE
+pub.1000019782,Viet Nam,GPE
+pub.1000019810,Europe,LOC
+pub.1000019810,South America,LOC
+pub.1000019827,UK,GPE
+pub.1000019898,Leishmania,GPE
+pub.1000019898,Sudan,GPE
+pub.1000020076,TiO2,GPE
+pub.1000020076,TiO2,GPE
+pub.1000020268,the United States,GPE
+pub.1000020268,the United States,GPE
+pub.1000020310,Rotterdam,GPE
+pub.1000020366,Germany,GPE
+pub.1000020370,Fungal,GPE
+pub.1000020444,Texas,GPE
+pub.1000020444,Texas,GPE
+pub.1000020557,L1,GPE
+pub.1000020603,The Hague,GPE
+pub.1000020603,South,LOC
+pub.1000020603,The Hague,GPE
+pub.1000020603,South,LOC
+pub.1000020622,Sweden,GPE
+pub.1000020741,Denmark,GPE
+pub.1000020741,Finland,GPE
+pub.1000020741,Sweden,GPE
+pub.1000020741,Denmark,GPE
+pub.1000020741,Sweden,GPE
+pub.1000020741,Finland,GPE
+pub.1000020741,Denmark,GPE
+pub.1000020762,Rome,GPE
+pub.1000020764,Africa,LOC
+pub.1000020764,Africa,LOC
+pub.1000020764,Africa,LOC
+pub.1000020764,Africa,LOC
+pub.1000020764,Africa,LOC
+pub.1000020764,Africa,LOC
+pub.1000020797,Citrus,GPE
+pub.1000020940,East,LOC
+pub.1000021045,Banach,GPE
+pub.1000021045,Yu,GPE
+pub.1000021063,the Kanto Region,LOC
+pub.1000021083,PV,GPE
+pub.1000021120,Mediterranean,LOC
+pub.1000021120,Italy,GPE
+pub.1000021235,Syphilis,GPE
+pub.1000021411,California,GPE
+pub.1000021744,Europe,LOC
+pub.1000021749,Myanmar,GPE
+pub.1000021749,Myanmar,GPE
+pub.1000021750,US,GPE
+pub.1000021750,US,GPE
+pub.1000021750,US,GPE
+pub.1000021750,Italy,GPE
+pub.1000021750,US,GPE
+pub.1000021753,Athens,GPE
+pub.1000021753,Milan,GPE
+pub.1000021850,Edit,LOC
+pub.1000021942,Milwaukee,GPE
+pub.1000021942,WI,GPE
+pub.1000021942,USA,GPE
+pub.1000022190,Hong-Kong,GPE
+pub.1000022190,US,GPE
+pub.1000022190,China,GPE
+pub.1000022190,China,GPE
+pub.1000022190,Mexico,GPE
+pub.1000022319,Cambridge,GPE
+pub.1000022319,England,GPE
+pub.1000022319,Wales,GPE
+pub.1000022499,US,GPE
+pub.1000022499,Europe,LOC
+pub.1000022580,Suzaku,GPE
+pub.1000022580,Suzaku,GPE
+pub.1000022587,Chiapas,GPE
+pub.1000022587,Mexico,GPE
+pub.1000022587,Chiapas,GPE
+pub.1000022685,China,GPE
+pub.1000022693,Biomphalaria,GPE
+pub.1000022693,Biomphalaria,GPE
+pub.1000022693,Totiviridae,GPE
+pub.1000022693,Biomphalaria,GPE
+pub.1000022693,Biomphalaria,GPE
+pub.1000022711,Karnataka,GPE
+pub.1000022711,India,GPE
+pub.1000022711,Karnataka,GPE
+pub.1000022711,India,GPE
+pub.1000022711,Karnataka,GPE
+pub.1000022712,Canada,GPE
+pub.1000022712,Scotland,GPE
+pub.1000022722,the United Kingdom,GPE
+pub.1000022722,London,GPE
+pub.1000022722,London,GPE
+pub.1000022722,London,GPE
+pub.1000022722,UK,GPE
+pub.1000022722,the United Kingdom,GPE
+pub.1000022722,London,GPE
+pub.1000022722,London,GPE
+pub.1000022722,London,GPE
+pub.1000022722,UK,GPE
+pub.1000022733,US,GPE
+pub.1000022733,New Jersey,GPE
+pub.1000022733,Maine,GPE
+pub.1000022733,New Jersey,GPE
+pub.1000022733,Boston Harbor,GPE
+pub.1000022733,Massachusetts,GPE
+pub.1000022886,Central Asia,LOC
+pub.1000022886,Kyrgyzstan,GPE
+pub.1000022907,Subvolume,GPE
+pub.1000023009,primipara,GPE
+pub.1000023009,Ceriodaphnia,GPE
+pub.1000023032,East,LOC
+pub.1000023032,West,LOC
+pub.1000023032,East-Central Europe,LOC
+pub.1000023032,East,LOC
+pub.1000023032,West,LOC
+pub.1000023032,East-Central Europe,LOC
+pub.1000023034,Afyon,GPE
+pub.1000023034,Turkey,GPE
+pub.1000023034,the Technical Departments,LOC
+pub.1000023034,Turkey,GPE
+pub.1000023070,Israel,GPE
+pub.1000023070,Israel,GPE
+pub.1000023141,Microchiropteran,GPE
+pub.1000023141,Trinidad,GPE
+pub.1000023141,Trinidad,GPE
+pub.1000023172,Finland,GPE
+pub.1000023172,Norway,GPE
+pub.1000023180,Iran,GPE
+pub.1000023180,Iran,GPE
+pub.1000023180,Iran,GPE
+pub.1000023180,Iran,GPE
+pub.1000023180,Iran,GPE
+pub.1000023249,Namibia,GPE
+pub.1000023249,Brandberg,GPE
+pub.1000023331,Africa,LOC
+pub.1000023331,Africa,LOC
+pub.1000023331,Mara River,LOC
+pub.1000023331,Kenya,GPE
+pub.1000023331,Tanzania,GPE
+pub.1000023331,the Great Ruaha River,LOC
+pub.1000023331,Tanzania,GPE
+pub.1000023331,Africa,LOC
+pub.1000023331,Africa,LOC
+pub.1000023331,Mara River,LOC
+pub.1000023331,Kenya,GPE
+pub.1000023331,Tanzania,GPE
+pub.1000023331,the Great Ruaha River,LOC
+pub.1000023331,Tanzania,GPE
+pub.1000023335,Russia,GPE
+pub.1000023335,Russia,GPE
+pub.1000023335,Russia,GPE
+pub.1000023335,Russia,GPE
+pub.1000023335,Russia,GPE
+pub.1000023335,Russia,GPE
+pub.1000023411,Shandong Province,GPE
+pub.1000023411,Shandong,GPE
+pub.1000023411,China,GPE
+pub.1000023411,China,GPE
+pub.1000023515,Canada,GPE
+pub.1000023515,Canada,GPE
+pub.1000023529,the Inventory of Parent,GPE
+pub.1000023559,Göteborg,GPE
+pub.1000023595,North Carolina,GPE
+pub.1000023617,China,GPE
+pub.1000023636,Africa,LOC
+pub.1000023636,Mtwara district,GPE
+pub.1000023636,Tanzania,GPE
+pub.1000023636,Africa,LOC
+pub.1000023636,Mtwara district,GPE
+pub.1000023636,Tanzania,GPE
+pub.1000023647,pH,GPE
+pub.1000023647,Zn,GPE
+pub.1000023691,New Zealand,GPE
+pub.1000023691,New Zealand,GPE
+pub.1000023695,Africa,LOC
+pub.1000023695,Africa,LOC
+pub.1000023706,Severnaya Zemlya,GPE
+pub.1000023800,Uganda,GPE
+pub.1000023800,Uganda,GPE
+pub.1000023815,China,GPE
+pub.1000023828,Israel,GPE
+pub.1000023828,Afghanistan,GPE
+pub.1000023828,Colombia,GPE
+pub.1000023828,India,GPE
+pub.1000023858,Malaysia,GPE
+pub.1000023858,the Pahang River Basin,LOC
+pub.1000023858,Malaysia,GPE
+pub.1000023858,Pahang River Basin,LOC
+pub.1000023866,Carandaí,GPE
+pub.1000023887,the United States,GPE
+pub.1000023887,U.S.,GPE
+pub.1000023903,Southern Ocean,LOC
+pub.1000023903,Southern Ocean,LOC
+pub.1000023903,Antarctic,LOC
+pub.1000023905,Europe,LOC
+pub.1000023905,USA,GPE
+pub.1000023905,Asia,LOC
+pub.1000024301,the Seyhan River,LOC
+pub.1000024301,Turkey,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024375,Korea,GPE
+pub.1000024402,Nakuru,GPE
+pub.1000024443,Tygerberg Hospital,GPE
+pub.1000024443,Cape Town,GPE
+pub.1000024443,South Africa,GPE
+pub.1000024452,US,GPE
+pub.1000024452,Missoula,GPE
+pub.1000024452,Montana,GPE
+pub.1000024606,UK,GPE
+pub.1000024637,US,GPE
+pub.1000024641,the United States,GPE
+pub.1000024641,Minnesota,GPE
+pub.1000024651,US,GPE
+pub.1000024651,US,GPE
+pub.1000024666,USA,GPE
+pub.1000024666,Missouri,GPE
+pub.1000024666,USA,GPE
+pub.1000024666,Missouri,GPE
+pub.1000024670,Brazil,GPE
+pub.1000024698,Brazil,GPE
+pub.1000024791,Tunisia,GPE
+pub.1000024802,El Salvador,GPE
+pub.1000024925,ammonia crystal,GPE
+pub.1000024972,Netherlands,GPE
+pub.1000025004,China,GPE
+pub.1000025004,China,GPE
+pub.1000025019,Atlantic,LOC
+pub.1000025019,juveniles,GPE
+pub.1000025067,Syros,GPE
+pub.1000025067,Greece,GPE
+pub.1000025111,Bremen,GPE
+pub.1000025185,Los Angeles,GPE
+pub.1000025185,Los Angeles,GPE
+pub.1000025185,Long Beach,GPE
+pub.1000025221,Africa,LOC
+pub.1000025229,Leishmania,GPE
+pub.1000025229,Brazil,GPE
+pub.1000025267,Hamedan,GPE
+pub.1000025340,Subvolume,GPE
+pub.1000025418,mucoid,GPE
+pub.1000025418,mucoid,GPE
+pub.1000025418,CF,GPE
+pub.1000025476,Israel,GPE
+pub.1000025476,Israel,GPE
+pub.1000025476,Deuteronomy,GPE
+pub.1000025476,Israel,GPE
+pub.1000025476,Israel,GPE
+pub.1000025500,UK,GPE
+pub.1000025500,UK,GPE
+pub.1000025539,Sikorsky,GPE
+pub.1000025539,Aérospatiale Alouette III,GPE
+pub.1000025539,Westland Lynx,GPE
+pub.1000025562,Uganda,GPE
+pub.1000025562,PTSD,GPE
+pub.1000025562,Uganda,GPE
+pub.1000025562,Uganda,GPE
+pub.1000025630,Kyrgyzstan,GPE
+pub.1000025657,England,GPE
+pub.1000025657,Wales,GPE
+pub.1000025760,pharynx,GPE
+pub.1000025783,Hyang,GPE
+pub.1000025783,Fulcher(1987,GPE
+pub.1000025783,Korea,GPE
+pub.1000025815,IALMST,GPE
+pub.1000025944,Subvolume,GPE
+pub.1000026033,rebaudiana,GPE
+pub.1000026033,Bertoni,GPE
+pub.1000026093,Europe,LOC
+pub.1000026093,Europe,LOC
+pub.1000026112,the United States,GPE
+pub.1000026112,San Francisco Bay Area,LOC
+pub.1000026200,US,GPE
+pub.1000026200,Tundra,GPE
+pub.1000026200,Taiga,GPE
+pub.1000026308,Ethiopia,GPE
+pub.1000026308,Ethiopia,GPE
+pub.1000026391,Youth,GPE
+pub.1000026432,the United States of America,GPE
+pub.1000026432,the United States of America,GPE
+pub.1000026432,Washington,GPE
+pub.1000026432,D.C.,GPE
+pub.1000026505,Oduvanthalai,GPE
+pub.1000026505,Oduvanthalai,GPE
+pub.1000026505,South India,GPE
+pub.1000026505,neutrophilia,GPE
+pub.1000026547,Ohio,GPE
+pub.1000026547,USA,GPE
+pub.1000026547,Ambystoma,GPE
+pub.1000026550,Bosnia,GPE
+pub.1000026550,Croatia,GPE
+pub.1000026550,Kosovo,GPE
+pub.1000026550,Serbia,GPE
+pub.1000026550,Balkans,LOC
+pub.1000026553,China,GPE
+pub.1000026553,India,GPE
+pub.1000026553,South Africa,GPE
+pub.1000026553,India,GPE
+pub.1000026553,China,GPE
+pub.1000026571,China,GPE
+pub.1000026571,China,GPE
+pub.1000026571,China,GPE
+pub.1000026687,Nile,LOC
+pub.1000026687,Sertoli,GPE
+pub.1000026689,China,GPE
+pub.1000026689,East Africa,GPE
+pub.1000027024,the United States,GPE
+pub.1000027131,the Gulf of Mexico,LOC
+pub.1000027131,the Gulf of Mexico,LOC
+pub.1000027131,the Gulf of Mexico,LOC
+pub.1000027163,Greece,GPE
+pub.1000027196,Flanders,GPE
+pub.1000027216,California,GPE
+pub.1000027329,the United States,GPE
+pub.1000027348,Israel,GPE
+pub.1000027348,Guerrillas,GPE
+pub.1000027348,Latin America,LOC
+pub.1000027348,Princeton,GPE
+pub.1000027348,N.J.,GPE
+pub.1000027375,Balkans,LOC
+pub.1000027375,Balkan Peninsula,LOC
+pub.1000027419,Chrysoperla,GPE
+pub.1000027826,Newport,GPE
+pub.1000027826,Oregon,GPE
+pub.1000027826,USA,GPE
+pub.1000027826,Oregon,GPE
+pub.1000027982,Russia,GPE
+pub.1000028046,Asia,LOC
+pub.1000028158,Sierra Leone's,GPE
+pub.1000028158,Sierra Leone,GPE
+pub.1000028158,Sierra Leone's,GPE
+pub.1000028158,Sierra Leone,GPE
+pub.1000028158,Sierra Leone's,GPE
+pub.1000028158,Sierra Leone,GPE
+pub.1000028195,Earth,LOC
+pub.1000028195,North Africa,GPE
+pub.1000028195,South America,LOC
+pub.1000028195,Peru,GPE
+pub.1000028195,Indian Ocean,LOC
+pub.1000028201,US,GPE
+pub.1000028201,Texas,GPE
+pub.1000028259,Africa,LOC
+pub.1000028259,Asia,LOC
+pub.1000028457,Metro Vancouver,GPE
+pub.1000028457,Metro Vancouver,GPE
+pub.1000028457,Metro Vancouver,GPE
+pub.1000028457,Metro Vancouver,GPE
+pub.1000028609,Mediterranean,LOC
+pub.1000028630,Netherlands,GPE
+pub.1000028630,Netherlands,GPE
+pub.1000028630,Netherlands,GPE
+pub.1000028645,Hong Kong,GPE
+pub.1000028772,Asia,LOC
+pub.1000028772,Japan,GPE
+pub.1000028772,Asia,LOC
+pub.1000028832,South Eastern Nigeria,LOC
+pub.1000028880,U.S.,GPE
+pub.1000028889,São Paulo,GPE
+pub.1000028889,Valley,LOC
+pub.1000028891,Finland,GPE
+pub.1000028903,Nepal,GPE
+pub.1000028903,Bhutan,GPE
+pub.1000028953,US,GPE
+pub.1000028953,US,GPE
+pub.1000029058,H2O,GPE
+pub.1000029058,PH2O=4.2bar,GPE
+pub.1000029112,Cu,GPE
+pub.1000029112,Ni,GPE
+pub.1000029215,Greece,GPE
+pub.1000029215,Germany,GPE
+pub.1000029215,Austria,GPE
+pub.1000029215,Italy,GPE
+pub.1000029253,VA,GPE
+pub.1000029342,Pacific,LOC
+pub.1000029342,Pacific,LOC
+pub.1000029342,the Fraser River,LOC
+pub.1000029342,British Columbia,GPE
+pub.1000029342,Canada,GPE
+pub.1000029342,the Fraser River,LOC
+pub.1000029386,Germany,GPE
+pub.1000029386,StGB,GPE
+pub.1000029545,PA,GPE
+pub.1000029545,PA,GPE
+pub.1000029545,TiO2,GPE
+pub.1000029632,Russia,GPE
+pub.1000029635,Zooplankton,GPE
+pub.1000029723,Amsterdam,GPE
+pub.1000029723,Netherlands,GPE
+pub.1000029723,Utrecht,GPE
+pub.1000029723,Amsterdam,GPE
+pub.1000029723,Amsterdam,GPE
+pub.1000029752,Candida,GPE
+pub.1000029752,Italy,GPE
+pub.1000029759,Australia,GPE
+pub.1000029759,Japan,GPE
+pub.1000029759,Germany,GPE
+pub.1000029759,UK,GPE
+pub.1000029759,France,GPE
+pub.1000029759,USA,GPE
+pub.1000029824,India,GPE
+pub.1000029851,London,GPE
+pub.1000029881,Earth,LOC
+pub.1000029881,Earth,LOC
+pub.1000029881,Earth,LOC
+pub.1000029914,Streptococcus,GPE
+pub.1000029996,Wisconsin,GPE
+pub.1000029996,Wisconsin,GPE
+pub.1000029996,Milwaukee,GPE
+pub.1000030081,U.S.,GPE
+pub.1000030109,Serbia,GPE
+pub.1000030140,Africa,LOC
+pub.1000030172,France,GPE
+pub.1000030231,South Korea,GPE
+pub.1000030231,South Korea,GPE
+pub.1000030304,Fujian,GPE
+pub.1000030304,Guangdong,GPE
+pub.1000030304,Guangxi,GPE
+pub.1000030304,Shanghai,GPE
+pub.1000030304,Zhejiang,GPE
+pub.1000030304,Guangdong,GPE
+pub.1000030304,Guangdong,GPE
+pub.1000030304,Schistosoma,GPE
+pub.1000030318,Seoul,GPE
+pub.1000030318,Yeongwol,GPE
+pub.1000030566,the United States,GPE
+pub.1000030568,UO2,GPE
+pub.1000030663,Spain,GPE
+pub.1000030680,Collis,GPE
+pub.1000030680,Betty,GPE
+pub.1000030680,Moonen,GPE
+pub.1000030680,Instruction Hills,GPE
+pub.1000030680,Holdsworth,GPE
+pub.1000030680,the Classroom Thorne,GPE
+pub.1000030685,Medline,GPE
+pub.1000030685,anesthesia,GPE
+pub.1000030685,anesthesia,GPE
+pub.1000030685,analgesia,GPE
+pub.1000030685,anesthesia,GPE
+pub.1000030833,Korea,GPE
+pub.1000030833,the First Republic,GPE
+pub.1000030833,South Korea,GPE
+pub.1000030833,the First Republic,GPE
+pub.1000030833,South Korea,GPE
+pub.1000030915,Pacific,LOC
+pub.1000030915,Pacific,LOC
+pub.1000030915,Pacific,LOC
+pub.1000030915,Pacific,LOC
+pub.1000030915,Pacific,LOC
+pub.1000030986,Bristol,GPE
+pub.1000031015,flora,GPE
+pub.1000031015,Pertusorioid,GPE
+pub.1000031028,the Russian Federation,GPE
+pub.1000031028,the Russian Federation,GPE
+pub.1000031028,The Russian Federation,GPE
+pub.1000031028,the Russian Federation’s,GPE
+pub.1000031148,Kenya,GPE
+pub.1000031297,Subvolume,GPE
+pub.1000031444,South China,LOC
+pub.1000031444,US,GPE
+pub.1000031444,South China's,LOC
+pub.1000031444,China,GPE
+pub.1000031450,Anoxia,GPE
+pub.1000031450,Anoxia,GPE
+pub.1000031450,Earth,LOC
+pub.1000031450,the Northern Adriatic,LOC
+pub.1000031450,Mediterranean Sea,LOC
+pub.1000031453,Caribbean,LOC
+pub.1000031454,Iassona,GPE
+pub.1000031462,formdocumentclass[12pt]{minimal}ttttusepackage{amsmath}ttttusepackage{wasysym}ttttusepackage{amsfonts}ttttusepackage{amssymb}ttttusepackage{amsbsy}ttttusepackage{mathrsfs}ttttusepackage{upgreek}ttttsetlength{oddsidemargin}{-69pt}ttttbegin{document}$${I_{rm{s,GPE
+pub.1000031466,China,GPE
+pub.1000031466,the United States,GPE
+pub.1000031466,the Middle East,LOC
+pub.1000031466,China,GPE
+pub.1000031466,the Middle East,LOC
+pub.1000031476,Kosovo,GPE
+pub.1000031476,Kosovo,GPE
+pub.1000031476,Kosovo,GPE
+pub.1000031476,Kosovo,GPE
+pub.1000031476,Kosovo,GPE
+pub.1000031476,North Kosovo,GPE
+pub.1000031476,Kosovo,GPE
+pub.1000031543,LS2,GPE
+pub.1000031545,the West Bank,GPE
+pub.1000031545,the West Bank,GPE
+pub.1000031573,Liquidambar,GPE
+pub.1000031573,North Carolina,GPE
+pub.1000031573,USA,GPE
+pub.1000031665,Tianjin,GPE
+pub.1000031665,China,GPE
+pub.1000031726,North-East Germany,LOC
+pub.1000031733,Uganda,GPE
+pub.1000031805,Georgia,GPE
+pub.1000031805,USA,GPE
+pub.1000031805,St Catherines,GPE
+pub.1000031805,Sapelo,GPE
+pub.1000031805,Jekyll,GPE
+pub.1000031805,Cumberland,GPE
+pub.1000031806,Fuzhou City,GPE
+pub.1000031806,China,GPE
+pub.1000031806,cropland,GPE
+pub.1000031806,the Minjiang River,LOC
+pub.1000031872,CuCl,LOC
+pub.1000031872,∼6.5,GPE
+pub.1000031872,CuCl,LOC
+pub.1000031872,CuCl,LOC
+pub.1000031872,CuCl,LOC
+pub.1000031941,HBsAg,GPE
+pub.1000031990,Dirac,LOC
+pub.1000032026,Ethiopia,GPE
+pub.1000032162,UK,GPE
+pub.1000032162,UK,GPE
+pub.1000032162,England,GPE
+pub.1000032162,East England,LOC
+pub.1000032162,UK,GPE
+pub.1000032246,USA,GPE
+pub.1000032264,the United States,GPE
+pub.1000032288,Malaysia,GPE
+pub.1000032288,Johor,GPE
+pub.1000032288,Malaysia,GPE
+pub.1000032288,Johor,GPE
+pub.1000032373,Japan,GPE
+pub.1000032373,Japan,GPE
+pub.1000032373,Japan,GPE
+pub.1000032373,America,GPE
+pub.1000032373,Japan,GPE
+pub.1000032401,Russia,GPE
+pub.1000032401,Russia,GPE
+pub.1000032401,Russia,GPE
+pub.1000032401,Moscow,GPE
+pub.1000032401,Russia,GPE
+pub.1000032470,Europe,LOC
+pub.1000032470,Europe,LOC
+pub.1000032531,the Northwest Pacific Ocean,LOC
+pub.1000032531,China,GPE
+pub.1000032531,Zhejiang,GPE
+pub.1000032531,East China Sea,LOC
+pub.1000032714,Germany,GPE
+pub.1000032984,UK,GPE
+pub.1000033250,Rio de Janeiro,GPE
+pub.1000033354,Nigeria,GPE
+pub.1000033354,Nigeria,GPE
+pub.1000033354,Nigeria,GPE
+pub.1000033354,Nigeria,GPE
+pub.1000033517,Alaska,GPE
+pub.1000033517,the Pacific Northwest,LOC
+pub.1000033517,Washington State,GPE
+pub.1000033517,Washington State,GPE
+pub.1000033517,I.R.,GPE
+pub.1000033647,U.S.,GPE
+pub.1000033804,Halsey,GPE
+pub.1000033804,Henderson,GPE
+pub.1000033804,enthalpy,GPE
+pub.1000033816,Africa,LOC
+pub.1000033816,Ghana,GPE
+pub.1000033816,Rwanda,GPE
+pub.1000033816,South Africa,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Habitat Capacity,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Habitat Capacity,GPE
+pub.1000034006,Habitat Capacity,GPE
+pub.1000034006,Canada,GPE
+pub.1000034006,Habitat Capacity,GPE
+pub.1000034015,Africa,LOC
+pub.1000034015,UK,GPE
+pub.1000034015,Africa,LOC
+pub.1000034015,Africa,LOC
+pub.1000034015,Africa,LOC
+pub.1000034015,Africa,LOC
+pub.1000034016,HPLC,GPE
+pub.1000034016,methomyl,GPE
+pub.1000034016,carbaryl,GPE
+pub.1000034016,carbofuran,GPE
+pub.1000034016,HPLC,GPE
+pub.1000034026,the United States,GPE
+pub.1000034026,Michigan,GPE
+pub.1000034029,Europe,LOC
+pub.1000034049,Esfahan province,GPE
+pub.1000034049,Iran,GPE
+pub.1000034049,Esfahan province,GPE
+pub.1000034049,Iran,GPE
+pub.1000034108,Subvolume,GPE
+pub.1000034180,Lusaka,GPE
+pub.1000034180,Zambia,GPE
+pub.1000034238,Vmax,GPE
+pub.1000034242,Bulgaria,GPE
+pub.1000034242,Sofia,GPE
+pub.1000034242,Turkey,GPE
+pub.1000034242,Greece,GPE
+pub.1000034242,Romania,GPE
+pub.1000034242,Romania,GPE
+pub.1000034242,Sofia,GPE
+pub.1000034303,the Jerada Basin,LOC
+pub.1000034311,Bangkok,GPE
+pub.1000034311,Bangkok,GPE
+pub.1000034311,Bangkok,GPE
+pub.1000034448,the Southern Ocean,LOC
+pub.1000034448,China,GPE
+pub.1000034448,China,GPE
+pub.1000034448,MPAs,GPE
+pub.1000034448,China,GPE
+pub.1000034512,the United States,GPE
+pub.1000034512,China,GPE
+pub.1000034512,Bali,GPE
+pub.1000034512,Indonesia,GPE
+pub.1000034512,the United States,GPE
+pub.1000034512,Bali,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034523,Ireland,GPE
+pub.1000034549,US,GPE
+pub.1000034549,US,GPE
+pub.1000034549,US,GPE
+pub.1000034549,US,GPE
+pub.1000034568,Pyramid Lake,GPE
+pub.1000034568,Pyramid Lake,GPE
+pub.1000034636,Taenia,GPE
+pub.1000034636,Taenia,GPE
+pub.1000034636,Taenia,GPE
+pub.1000034636,Anoplocephala,GPE
+pub.1000034646,Antarctica,LOC
+pub.1000034646,Antarctica,LOC
+pub.1000034646,Antarctic,LOC
+pub.1000034646,Antarctica,LOC
+pub.1000034907,SRFEL,GPE
+pub.1000035140,North America,LOC
+pub.1000035140,Japan,GPE
+pub.1000035140,Western Europe,LOC
+pub.1000035176,PV,GPE
+pub.1000035269,Belgium,GPE
+pub.1000035290,Dictyostelium,GPE
+pub.1000035347,the United States,GPE
+pub.1000035375,Caesalpinia,GPE
+pub.1000035406,Changchun City,GPE
+pub.1000035406,China,GPE
+pub.1000035518,Karnataka,GPE
+pub.1000035571,Central Sulawesi,LOC
+pub.1000035657,Simovska,GPE
+pub.1000035657,Jarevska,GPE
+pub.1000035659,the United States,GPE
+pub.1000035659,Boulder,GPE
+pub.1000035659,Colo.,GPE
+pub.1000035659,the United States,GPE
+pub.1000035659,U.S.,GPE
+pub.1000035736,South Korea,GPE
+pub.1000035736,South Korea,GPE
+pub.1000035740,Ontario,GPE
+pub.1000035740,Ontario,GPE
+pub.1000035746,the United States,GPE
+pub.1000035769,Panalpina,GPE
+pub.1000035769,Werner,GPE
+pub.1000035795,Iran,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035901,Shandong,GPE
+pub.1000035919,hacia el,GPE
+pub.1000035968,Quaternary,GPE
+pub.1000035983,China,GPE
+pub.1000035983,China,GPE
+pub.1000035983,China,GPE
+pub.1000035983,China,GPE
+pub.1000035993,US,GPE
+pub.1000036012,Medline,GPE
+pub.1000036103,Arctic,LOC
+pub.1000036152,South China,LOC
+pub.1000036152,Southern China,LOC
+pub.1000036152,west S,GPE
+pub.1000036152,east S-SWP,GPE
+pub.1000036152,west S-SWP,GPE
+pub.1000036152,west S-SWP,GPE
+pub.1000036152,South China,LOC
+pub.1000036152,South China,LOC
+pub.1000036496,Europe,LOC
+pub.1000036496,Switzerland,GPE
+pub.1000036496,Europe,LOC
+pub.1000036566,osteomalacia,GPE
+pub.1000036573,India,GPE
+pub.1000036674,Netherlands,GPE
+pub.1000036678,Korea,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036754,Malaysia,GPE
+pub.1000036778,India,GPE
+pub.1000036778,India,GPE
+pub.1000036778,India,GPE
+pub.1000036778,New Delhi,GPE
+pub.1000036785,Medline,GPE
+pub.1000036852,UK,GPE
+pub.1000036852,UK,GPE
+pub.1000036858,anesthesia,GPE
+pub.1000037204,Europe,LOC
+pub.1000037204,Netherlands,GPE
+pub.1000037204,USA,GPE
+pub.1000037204,UK,GPE
+pub.1000037278,Europe,LOC
+pub.1000037375,Philippines,GPE
+pub.1000037375,UK,GPE
+pub.1000037375,Filipina,GPE
+pub.1000037375,Philippines,GPE
+pub.1000037673,Europe,LOC
+pub.1000037708,Kleeblattschädel,GPE
+pub.1000037708,Kleeblattschädel,GPE
+pub.1000037714,Riccati,GPE
+pub.1000037978,Nigeria,GPE
+pub.1000037978,Ibadan,GPE
+pub.1000037978,South Western Nigeria,GPE
+pub.1000038036,US,GPE
+pub.1000038036,Afghanistan,GPE
+pub.1000038081,Washington,GPE
+pub.1000038081,Washington,GPE
+pub.1000038085,California,GPE
+pub.1000038277,UK,GPE
+pub.1000038289,nodes,GPE
+pub.1000038311,rGroEL,GPE
+pub.1000038311,rGroEL,GPE
+pub.1000038317,Quebec,GPE
+pub.1000038317,Canada,GPE
+pub.1000038317,Sherbrooke,GPE
+pub.1000038443,UK,GPE
+pub.1000038443,PA,GPE
+pub.1000038566,North America,LOC
+pub.1000038610,Miami,GPE
+pub.1000038610,San Diego,GPE
+pub.1000038631,Andhra Pradesh,GPE
+pub.1000038631,India,GPE
+pub.1000038631,the Sri Venkateswara Wildlife Sanctuary,GPE
+pub.1000038796,Practice,GPE
+pub.1000038796,Practice,GPE
+pub.1000038796,Practice,GPE
+pub.1000038796,Galway,GPE
+pub.1000038796,Ireland,GPE
+pub.1000038821,Xiluodu,GPE
+pub.1000038821,Jinsha River,LOC
+pub.1000038867,New Zealand,GPE
+pub.1000038872,India,GPE
+pub.1000038890,Japan,GPE
+pub.1000038890,Japan,GPE
+pub.1000038890,Japan,GPE
+pub.1000038890,Japan,GPE
+pub.1000038890,West,LOC
+pub.1000038904,U.S,GPE
+pub.1000038936,Sun,LOC
+pub.1000038995,Dar es Salaam,GPE
+pub.1000038995,Tanzania,GPE
+pub.1000038995,Tanzania,GPE
+pub.1000039151,Pacific Islands,LOC
+pub.1000039151,New Zealand,GPE
+pub.1000039151,South Auckland,GPE
+pub.1000039151,New Zealand,GPE
+pub.1000039351,Cameroon,GPE
+pub.1000039351,Cameroon,GPE
+pub.1000039351,Cameroon,GPE
+pub.1000039391,PE,GPE
+pub.1000039426,Algeria,GPE
+pub.1000039426,Algeria,GPE
+pub.1000039653,Rome,GPE
+pub.1000039653,Rome,GPE
+pub.1000039653,Thomas,GPE
+pub.1000039700,Japan,GPE
+pub.1000039700,Kitakyushu,GPE
+pub.1000039700,Japan,GPE
+pub.1000039700,Kitakyushu,GPE
+pub.1000039700,Kitakyushu,GPE
+pub.1000039700,los izquierdistas,GPE
+pub.1000039700,las próximas,GPE
+pub.1000039747,Leticia,GPE
+pub.1000039747,Colombia,GPE
+pub.1000039787,Modelling,GPE
+pub.1000039793,Cu,GPE
+pub.1000039793,Zn,GPE
+pub.1000039840,LILACS,GPE
+pub.1000039882,Germany,GPE
+pub.1000040031,Afghanistan,GPE
+pub.1000040157,Benin,GPE
+pub.1000040157,Ghana,GPE
+pub.1000040157,West Africa,GPE
+pub.1000040157,Benin,GPE
+pub.1000040157,Ghana,GPE
+pub.1000040157,West Africa,GPE
+pub.1000040158,US,GPE
